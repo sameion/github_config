@@ -1,6 +1,6 @@
 # github_config
 
-## create a new repository on the command line
+## 1、create a new repository on the command line
 
 ```
 echo "# github_config" >> README.md
@@ -12,7 +12,7 @@ git remote add origin https://github.com/sameion/github_config.git
 git push -u origin main
 ```
 
-### push an existing repository from the command line
+### 2、push an existing repository from the command line
 
 ```
 git remote add origin https://github.com/sameion/github_config.git
